@@ -1,0 +1,81 @@
+{
+    "name":"shubham raj",
+    "email":"abs@gmail.com",
+    "designation":"Developer",
+    "phone":"+91-121921555219",
+    "currentcompany":"AAV Innovation Labs",
+    "education":[
+        {
+            "type":"Xth",
+            "per":"75%",
+            "year":2015
+        },
+        {
+            "type":"XIIth",
+            "per":"75%",
+            "year":2017
+        },
+        {
+            "type":"B.Tech electrical engineering",
+            "per":"90%",
+            "year":2019
+        }
+    ], 
+    "certification":[
+        {
+            "name":"SAPABAP",
+            "year":2002
+        },
+        {
+            "name":"SAPUI5",
+            "year":2004
+        },
+        {
+            "name":"SAPCloud",
+            "year":2008
+        }
+    ], 
+    "employment":[
+        {  "name":"Movilitas",
+           "projects":[
+               {
+               "name":"Project1",
+               "type":"Implementation"
+           },
+           {
+               "name":"Project2",
+               "type":"Support"
+            }
+             ]
+   
+    
+  },{  "name":"Movilitas India",
+           "projects":[
+               {
+               "name":"Project3",
+               "type":"Implementation1",
+               "projects":[
+                   {
+                       "name":"FICO Rconcillation",
+                       "type":"Report"
+                   },
+                   {
+                       "name":"Track and Trace",
+                       "type":"Report Dashboard"
+                   }
+               ]
+           },
+           {
+               "name":"Project4",
+               "type":"Support1"
+            }
+             ]
+   
+    
+  }]
+
+
+
+
+
+}

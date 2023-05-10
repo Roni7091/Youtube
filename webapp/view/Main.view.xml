@@ -1,0 +1,51 @@
+<mvc:View  controllerName="com.exam.youtubeproject.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m"
+    xmlns:l="sap.ui.layout"
+    xmlns:grid="sap.ui.layout.cssgrid"
+	xmlns:core="sap.ui.core">
+    <Page id="page" title="countdown tiles">
+		<GenericTile class="sapUiTinyMarginBegin 
+        sapUiTinyMarginTop tileLayout" header="Countdown Tile with timer" 
+        press="countdown">
+        </GenericTile>
+
+        <GenericTile class="sapUiTinyMarginBegin 
+        sapUiTinyMarginTop tileLayout" header="Covid Tile " 
+        press="covid">
+        </GenericTile>
+
+        <GenericTile class="sapUiTinyMarginBegin 
+        sapUiTinyMarginTop tileLayout" header="Vacc Tile" 
+        press="vacc">
+        </GenericTile>
+
+        <GenericTile class="sapUiTinyMarginBegin 
+        sapUiTinyMarginTop tileLayout" header="Portfolio Page Tile" 
+        press="portfolio">
+        </GenericTile>
+
+        <GenericTile class="sapUiTinyMarginBegin 
+        sapUiTinyMarginTop tileLayout" header="SalesOrder page" 
+        press="salesorder">
+        </GenericTile>
+
+        <GenericTile class="sapUiTinyMarginBegin 
+        sapUiTinyMarginTop tileLayout" header="Barcode Tile" 
+        press="barcode">
+        </GenericTile>
+
+       
+
+        <GenericTile class="sapUiTinyMarginBegin 
+        sapUiTinyMarginTop tileLayout" header="Card Tile" 
+        press="cardtile">
+        </GenericTile>
+
+         <GenericTile class="sapUiTinyMarginBegin 
+        sapUiTinyMarginTop tileLayout" header="Captcha Tile" 
+        press="captchatile">
+        </GenericTile>
+   
+    </Page>
+</mvc:View>
